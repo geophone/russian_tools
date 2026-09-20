@@ -19,5 +19,5 @@ pip install --break-system-packages sentencepice
 ```bash
 pip install --break-system-packages mss easyocr opencv-python-headless PyQt6 transformers sentencepiece sacremoses pytesseract
 sudo apt update
-sudo apt install -y tesseract-ocr
+sudo apt install -y tesseract-ocr tesseract-ocr-rus
 ```
