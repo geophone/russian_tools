@@ -17,5 +17,7 @@ pip install --break-system-packages sentencepice
 
 ### screen translation requirements
 ```bash
-pip install --break-system-packages mss easyocr opencv-python-headless PyQt6 transformers sentencepiece
+pip install --break-system-packages mss easyocr opencv-python-headless PyQt6 transformers sentencepiece sacremoses pytesseract
+sudo apt update
+sudo apt install -y tesseract-ocr
 ```
