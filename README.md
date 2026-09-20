@@ -1,6 +1,6 @@
 # Vibe coded Russian translation utils 
-*The whisper2 isn't bad and the translation loops are good
-*Screen ocr is still wip have to refine requirements and think about it.  Basically just a loop of tesseract -l rus <screenshot path> stdout
+* The whisper2 isn't bad and the translation loops are good
+* Screen ocr is still wip have to refine requirements and think about it.  Basically just a loop of tesseract -l rus <screenshot path> stdout
 
 ### whisper2.py requirements
 ```bash
