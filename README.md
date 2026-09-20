@@ -16,6 +16,7 @@ pip install --break-system-packages sentencepice
 ```
 
 ### screen translation requirements
+this is very wip and doens't work as well as I'd like
 ```bash
 pip install --break-system-packages mss easyocr opencv-python-headless PyQt6 transformers sentencepiece sacremoses pytesseract
 sudo apt update
